@@ -2,3 +2,5 @@
 .idea/
 project/target/
 target/
+metastore_db/*
+derby.log
