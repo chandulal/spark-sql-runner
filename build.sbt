@@ -13,7 +13,7 @@ lazy val root = (project in file(".")).
   inThisBuild(List(
     scalaVersion := "2.11.8",
     version := "0.1",
-    mainClass in Compile := Some("com.example.WordCount")
+    mainClass in Compile := Some("com.example.SpakSQLRunner")
   )),
   name := "spark-sample",
   libraryDependencies ++= Seq(
