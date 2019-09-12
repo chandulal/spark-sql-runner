@@ -3,7 +3,7 @@ package com.example
 import org.apache.spark._
 import org.apache.spark.sql.SparkSession
 
-object SpakSQLRunner {
+object SparkSQLRunner {
   def main(args: Array[String]) {
 
     val spark = SparkSession
